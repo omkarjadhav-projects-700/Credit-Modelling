@@ -1,1 +1,1 @@
-## End To End Credit Modellig Project.
+## End To End Credit Modeling Project.
