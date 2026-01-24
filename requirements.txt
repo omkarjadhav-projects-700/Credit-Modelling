@@ -3,4 +3,6 @@ numpy
 matplotlib
 seaborn
 flask
+catboost
+xgboost
 -e .
